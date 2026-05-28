@@ -13,6 +13,8 @@
 
 💻 Passionate **DevOps Engineer** focused on building scalable, secure, and highly available infrastructure.
 
+💻 Currently working as a Senior Software Engineer with 5+ years of experience in DevOps, Cloud Infrastructure,Automation and Incident Mangement.
+
 ☁️ Specialized in **Cloud Computing, CI/CD Pipelines, Infrastructure as Code, Monitoring, and Automation**.
 
 📚 I share DevOps tutorials, cloud tips, and automation workflows through technical content and community learning.
