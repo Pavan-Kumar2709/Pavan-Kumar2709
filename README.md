@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Cloud+%7C+CI%2FCD+%7C+Automation;Kubernetes+%7C+Docker+%7C+AWS;Building+Reliable+Infrastructure;Automating+Everything+🚀" alt="Typing SVG" />
 </p>
 
----
 
 # 🚀 About Me
 
@@ -22,7 +21,6 @@
 
 > “Automate everything that can be automated.”
 
----
 
 # 🌟 Fun Facts
 
@@ -79,7 +77,6 @@
   <img src="https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
----
 
 # 🌐 Connect With Me
 
@@ -90,7 +87,6 @@
 
 </p>
 
----
 
 # 📊 GitHub Stats
 
@@ -104,16 +100,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavan-Kumar2709&layout=compact&theme=tokyonight"/>
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pavan-Kumar2709&theme=onedark&row=1&column=7"/>
-</p>
-
----
-
 # 📈 DevOps Focus Areas
 
 * 🚀 CI/CD Pipeline Automation
@@ -124,7 +110,6 @@
 * ⚡ Infrastructure as Code (IaC)
 * 🔄 GitOps Workflows
 
----
 
 # 🤝 Let's Connect
 
@@ -132,7 +117,7 @@
 
 📫 Reach me via LinkedIn or GitHub discussions.
 
---- www.linkedin.com/in/pavan-kumar-pallapothu-0a95b0184 
+ www.linkedin.com/in/pavan-kumar-pallapothu-0a95b0184 
 
 <p align="center">
   ⭐️ Building Reliable Infrastructure with Automation & Cloud 🚀
